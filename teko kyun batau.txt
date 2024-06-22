@@ -1,5 +1,9 @@
 teko kyun 
 hello 
+<<<<<<< HEAD
 hii byee
 yesss
 yayyyy
+=======
+hii byee nikal
+>>>>>>> 51f6a084db48abe8df87b6d3801845aec50c40fa
